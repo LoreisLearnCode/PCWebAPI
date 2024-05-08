@@ -1,4 +1,4 @@
-in mysql open new query and paste this code:
+in mysql create project with password is "123456" then open new query and paste this code:
 CREATE DATABASE IF NOT EXISTS product;
 
 USE product;
