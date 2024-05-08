@@ -12,6 +12,7 @@ CREATE TABLE IF NOT EXISTS products (
 );
 
 
+
 then new query and paste data products:
 INSERT INTO product.products VALUES 
 (1, 'PC Gaming - Glacier I3050 - 01BL', 'https://www.tncstore.vn/media/product/250-8687-tnc-store-pc-gaming-glacier-i3050-01bl-69.jpg', 526, '- CPU: Intel Core i3-12100F 4C/8T (3.3 Ghz up to 4.3GHz, 12MB, LGA1700, Alder Lake)_Tray\n- Main: Asus PRIME H610M-K D4\n- RAM: HIKSEMI ARMOR DDR4-8GB 3200MHZ U10 U-DIMM\n- SSD: Ổ cứng SSD Hiksemi Future Eco 512G PCIe Gen 4x4 NVMe\n- VGA: Asus Dual RTX 3050 8GB V2\n- PSU: KENOO E550c - Mầu Đen - Cáp dẹt\n- Vỏ case: KENOO ESPORT MK500-3F Black');
